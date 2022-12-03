@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @JBLDKY
+- 👋 Hi, I’m @JBLDSKY
 - 👀 I’m interested in ...
 Blindfolded solving rubik's cubes and coding.
 
 - 🌱 I’m currently learning ...
-Javascript and Python.
-
-- 💞️ I’m looking to collaborate on ...
-Any rubik's cube related project. 
+A blazingly fast and memory safe language that allows fearless concurrency. 
 
 - 📫 How to reach me ...
 Discord: Jord#0004
