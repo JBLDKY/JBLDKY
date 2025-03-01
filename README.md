@@ -3,7 +3,7 @@
 Blindfolded solving rubik's cubes and coding.
 
 - 🌱 I’m currently learning ...
-A blazingly fast and memory safe language that allows fearless concurrency. 
+UE5
 
 - 📫 How to reach me ...
 Discord: Jord#0004
